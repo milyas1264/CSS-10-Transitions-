@@ -11,11 +11,11 @@
 }
 
 #text{
-    width: 30%;
+    width: 40%;
     height: auto;
     border: 10PX dashed blue;
     background-color: aqua;
-    margin-left: 70px;
+    margin-left: 75px;
     float: left;
        
 }
